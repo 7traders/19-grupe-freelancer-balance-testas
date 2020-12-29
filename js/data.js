@@ -15,4 +15,8 @@ const account = [
 
 
 
-var month = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]; 
+const months = [
+    "Sausis", "Vasaris", "Kovas", "Balandis", 
+    "Gegužė", "Birželis", "Liepa", "Rugpjūtis", 
+    "Rugsėjis", "Spalis", "Lapkritis", "Gruodis"
+]; 
